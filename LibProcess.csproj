@@ -5,8 +5,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <LangVersion>latest</LangVersion>
         <Nullable>enable</Nullable>
-        <Version>1.1-beta.2</Version>
-        <RepositoryUrl>https://github.com/horstmeier/libprocess2</RepositoryUrl>
+        <Version>0.1.0-beta.1</Version>
+        <RepositoryUrl>https://github.com/OpusMajor/OpusMajor.LibProcess</RepositoryUrl>
         <Title>Library for  running generic processes</Title>
         <PackageTags>Process</PackageTags>
         <Authors>Jens Horstmeier</Authors>
